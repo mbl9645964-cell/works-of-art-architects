@@ -4,6 +4,7 @@ import Intro from './components/Intro'
 import Projects from './components/Projects'
 import Services from './components/Services'
 import Philosophy from './components/Philosophy'
+import Film from './components/Film'
 import Team from './components/Team'
 import Stats from './components/Stats'
 import Process from './components/Process'
@@ -23,6 +24,7 @@ export default function App() {
         <Projects />
         <Services />
         <Philosophy />
+        <Film />
         <Stats />
         <Team />
         <Process />
